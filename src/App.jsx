@@ -19,7 +19,6 @@ function App() {
     "You know you want to say yes",
     "Come on...",
     "Just imagine how cute we'd be 😌",
-    "I'll bring snacks!",
     "I promise I'm worth it 😎",
     "At least think about it for 5 more seconds?",
     "This is your sign 👀",
@@ -30,8 +29,23 @@ function App() {
     "Plot twist: you say yes 💕",
     "Okay but hear me out...",
     "What if this is destiny?",
+    "I’m literally on my knees right now, you like that don't you?", 
+    "Please don’t make me update my villain origin story", 
+    "Even my plants are rooting for us 🌱 (they're dead)",
     "Be honest... you smiled, didn't you?",
-    "Last chance before I dramatically faint"
+    "Last chance before I dramatically faint",
+    "I can’t go on pretending I’m okay without your answer 😩",
+    "WTF ?! 😩",
+    "GRRRRRRRRRRR! 😤",
+    "I’m literally pacing in my room 😩 Virtually",
+    "Do you want me to cry? Because I will 😭",
+    "My Wi-Fi can’t handle the suspense 🌐",
+    "I’ll send a dozen memes if you say yes 😂",
+    "Stop being difficult 😤",
+    "I’ve rehearsed a speech for your yes 🗣️",
+    "Are you trying to make me implode? 😭",
+    "I love you, pleaseee 😩💕",
+    "My heart is literally on pause 💔"
   ];
 
   const handleNoClick = () => {
@@ -51,7 +65,7 @@ function App() {
         <div className="celebration">
           <h1 className="thank-you">THANK YOU BABI! I LOVE YOU💕</h1>
           <p className="chat-message">
-            Please chat me and say you never clicked No, even tho you probably did, but it doesn't matter! <br/>chat me "OH FUNNY, YOU'VE FINALLY ASKED, YES!" and then let's plan!
+            Please chat me and say you never clicked No, even tho you probably did, but it doesn't matter! <br/>chat me "OH FUNNY, YOU'VE FINALLY ASKED, I SAID YES!" and then let's plan!
           </p>
           <div className="celebration-gifs">  
             <img src="/celebration/1.gif" alt="celebration" className="celebration-gif" />
